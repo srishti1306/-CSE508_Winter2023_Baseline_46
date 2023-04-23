@@ -19,3 +19,15 @@ We used the Million Song Dataset, which consists of the metadata and audio featu
 * The Song_data.csv is a csv file that contains song_id, title, release(album name), artist_name and year(of release). 
 * The 10000.txt contains the count play of 10,000 songs, including the user ID, song ID, and the number of times each song was played by the user.
 * The user_song_list_index_with_lyrics.csv consists of all these features present in the dataset obtained from merging 10000.txt and song_data.csv. It also contains lyrics of all the corresponding songs.
+
+## INSTRUCTIONS
+### USING DATASET 
+Download the IR folder from Github. It consists of the required three datasets. Upload the downloaded folder to your drive and mount your Google Drive while running the code.
+
+### RUNNING THE CODE
+Download the .ipynb file and upload it on Colab. Run the code and mount your Google Drive. 
+
+## MEMBERS
+* Bhavesh Sood (2019355)
+* Isha Sehrawat (2019046)
+* Srishti Singh (2019114)
