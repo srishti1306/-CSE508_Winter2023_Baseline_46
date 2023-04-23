@@ -22,7 +22,7 @@ We used the Million Song Dataset, which consists of the metadata and audio featu
 
 ## INSTRUCTIONS
 ### USING DATASET 
-Download the IR folder from Github. It consists of the required three datasets. Upload the downloaded folder to your drive and mount your Google Drive while running the code.
+From the Dataset folder in Github, copy the drive link. Make a shortcut in your MyDrive. It consists of the required datasets. Mount your Google Drive while running the code.
 
 ### RUNNING THE CODE
 Download the .ipynb file and upload it on Colab. Run the code and mount your Google Drive. 
