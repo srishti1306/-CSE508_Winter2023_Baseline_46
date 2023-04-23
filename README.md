@@ -3,6 +3,8 @@
 
 By Bhavesh Sood, Isha Sehrawat and Srishti Singh Information Retrieval (CSE508) under the guidance of Dr. Rajiv Ratn Shah from Indraprastha Institute of Information Technology, Delhi.
 
+You can find the Video explaining the project here : [Youtube link ](https://www.youtube.com/watch?v=0KDCEKMXPiI)
+
 ## INTRODUCTION
 * ### MOTIVATION
 With the advent of new technology and platforms, the music industry has experienced significant growth over the years. There has been a revolution in the way people access and consume music. The distribution of music digitally, with the rise of platforms like Spotify, Apple Music, etc., has made it easier to connect artists with listeners globally. More and more users are joining online streaming platforms. The revenue from music streaming has also been increasing every year since 2010. To meet the needs of these platforms, it's important to focus on improving user experience, music discovery, and data analysis. Platforms can improve the user experience by providing personalized recommendations, curated playlists, better search functionality, and user-friendly interfaces. Music streaming platforms can enhance music discovery by providing users with better ways to find new music they will enjoy. This could include features such as genre-based recommendations, new release notifications, and more personalized recommendations.
